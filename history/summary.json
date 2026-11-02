@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "hp",
     "status": "up",
-    "uptime": "10.63%",
-    "uptimeDay": "10.63%",
-    "uptimeWeek": "10.63%",
-    "uptimeMonth": "10.63%",
-    "uptimeYear": "10.63%",
-    "time": 1249,
-    "timeDay": 1249,
-    "timeWeek": 1249,
-    "timeMonth": 1249,
-    "timeYear": 1249,
-    "dailyMinutesDown": {
-      "2026-11-02": 6
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1210,
+    "timeDay": 1210,
+    "timeWeek": 1210,
+    "timeMonth": 1210,
+    "timeYear": 1210,
+    "dailyMinutesDown": {}
   },
   {
     "name": "C CN HP",
@@ -25,18 +23,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "c-cn-hp",
     "status": "down",
-    "uptime": "3.05%",
-    "uptimeDay": "3.05%",
-    "uptimeWeek": "3.05%",
-    "uptimeMonth": "3.05%",
-    "uptimeYear": "3.05%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "uptime": "0.13%",
+    "uptimeDay": "0.13%",
+    "uptimeWeek": "0.13%",
+    "uptimeMonth": "0.13%",
+    "uptimeYear": "0.13%",
+    "time": 3173,
+    "timeDay": 3173,
+    "timeWeek": 3173,
+    "timeMonth": 3173,
+    "timeYear": 3173,
     "dailyMinutesDown": {
-      "2026-11-02": 6
+      "2026-11-02": 161
     }
   },
   {
@@ -45,18 +43,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "e1-cn-hp",
     "status": "up",
-    "uptime": "4.26%",
-    "uptimeDay": "4.26%",
-    "uptimeWeek": "4.26%",
-    "uptimeMonth": "4.26%",
-    "uptimeYear": "4.26%",
-    "time": 4261,
-    "timeDay": 4261,
-    "timeWeek": 4261,
-    "timeMonth": 4261,
-    "timeYear": 4261,
-    "dailyMinutesDown": {
-      "2026-11-02": 6
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 6027,
+    "timeDay": 6027,
+    "timeWeek": 6027,
+    "timeMonth": 6027,
+    "timeYear": 6027,
+    "dailyMinutesDown": {}
   }
 ]
