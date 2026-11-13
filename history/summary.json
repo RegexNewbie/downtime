@@ -4,9 +4,9 @@
     "url": "$SECRET_HP",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "hp",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 941,
     "timeMonth": 1024,
     "timeYear": 1024,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-11-13": 0
+    }
   },
   {
     "name": "C CN HP",
@@ -23,11 +25,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "c-cn-hp",
     "status": "down",
-    "uptime": "1.58%",
+    "uptime": "1.57%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "1.58%",
-    "uptimeYear": "1.58%",
+    "uptimeMonth": "1.57%",
+    "uptimeYear": "1.57%",
     "time": 1845,
     "timeDay": 1041,
     "timeWeek": 1422,
@@ -36,7 +38,7 @@
     "dailyMinutesDown": {
       "2026-11-03": 1350,
       "2026-11-02": 761,
-      "2026-11-13": 345,
+      "2026-11-13": 417,
       "2026-11-12": 1440,
       "2026-11-11": 1440,
       "2026-11-10": 1440,
