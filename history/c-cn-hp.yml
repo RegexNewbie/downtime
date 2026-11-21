@@ -1,7 +1,7 @@
 url: $SECRET_C_CN_HP
-status: down
-code: 403
-responseTime: 1198
-lastUpdated: 2026-11-20T03:55:32.145Z
+status: up
+code: 200
+responseTime: 2864
+lastUpdated: 2026-11-21T03:52:24.537Z
 startTime: 2026-11-02T11:18:30.485Z
 generator: Upptime <https://github.com/upptime/upptime>
