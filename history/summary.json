@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "hp",
     "status": "up",
-    "uptime": "98.31%",
+    "uptime": "98.33%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.31%",
-    "uptimeYear": "98.31%",
+    "uptimeMonth": "98.33%",
+    "uptimeYear": "98.33%",
     "time": 1256,
     "timeDay": 1366,
     "timeWeek": 1583,
@@ -25,11 +25,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "c-cn-hp",
     "status": "down",
-    "uptime": "4.87%",
+    "uptime": "4.80%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "8.41%",
-    "uptimeMonth": "4.87%",
-    "uptimeYear": "4.87%",
+    "uptimeMonth": "4.80%",
+    "uptimeYear": "4.80%",
     "time": 2331,
     "timeDay": 1518,
     "timeWeek": 2997,
@@ -56,7 +56,7 @@
       "2026-11-19": 949,
       "2026-11-21": 1428,
       "2026-11-20": 1440,
-      "2026-11-22": 347
+      "2026-11-22": 715
     }
   },
   {
@@ -64,19 +64,20 @@
     "url": "$SECRET_E1_CN_HP",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "e1-cn-hp",
-    "status": "up",
-    "uptime": "98.70%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "98.72%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.70%",
-    "uptimeYear": "98.70%",
-    "time": 5017,
-    "timeDay": 3544,
-    "timeWeek": 3426,
-    "timeMonth": 5017,
-    "timeYear": 5017,
+    "uptimeMonth": "98.72%",
+    "uptimeYear": "98.72%",
+    "time": 5115,
+    "timeDay": 5499,
+    "timeWeek": 3930,
+    "timeMonth": 5115,
+    "timeYear": 5115,
     "dailyMinutesDown": {
-      "2026-11-13": 369
+      "2026-11-13": 369,
+      "2026-11-22": 0
     }
   }
 ]
